@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">crazy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="check">Remember Me</string>
+    <string name="user">Username:</string>
+    <string name="userhint">Please Enter Username:</string>
+    <string name="pass">Password:</string>
+    <string name="passhint">Please Enter Password:</string>
+    <string name="signing">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="title_activity_second">Testing Area</string>
+</resources>
